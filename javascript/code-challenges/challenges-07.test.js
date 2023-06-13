@@ -1,5 +1,7 @@
 'use strict';
 
+
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 1 - Review
 
@@ -134,7 +136,7 @@ const listFoods = (recipe) => {
   let result = [];
   // Solution code here...
   recipe.ingredients.forEach(ingredient => {
-    
+
     let noneAmount =ingredient.slice(ingredient.indexOf(' ')+1);
     let noneUnits = noneAmount.slice(noneAmount.indexOf(' ')+1);
     result.push(noneUnits);
@@ -143,6 +145,7 @@ const listFoods = (recipe) => {
 
   return result;
 };
+
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
