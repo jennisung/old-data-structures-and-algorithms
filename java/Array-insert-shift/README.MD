@@ -1,3 +1,4 @@
+
 # Code Challenge 2: array-insert-shift
 
 Without using any built-in methods, return an array with the new value added at the middle index.
@@ -6,8 +7,14 @@ Without using any built-in methods, return an array with the new value added at 
 
 ![white board](arrayinsertshift.png)
 
+![white board](codearrayinsertshift.png)
+
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+
+The visualization and writing out the algorithm helped with the process.
+
 
 ## Solution
-<!-- Show how to run your code, and examples of it in action -->
+![white board](codearrayinsertshift.png)
+
+![white board](output.png)
