@@ -18,3 +18,8 @@ The visualization and writing out the algorithm helped with the process.
 ![white board](codearrayinsertshift.png)
 
 ![white board](output.png)
+
+
+# Resources
+
+* chatgbt https://chat.openai.com/
